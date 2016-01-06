@@ -103,7 +103,20 @@ public class PlayerControl : MonoBehaviour
 		transform.localScale = theScale;
 	}
 
-
+	void OnCollisionEnter2D (Collision2D other)
+	{
+		if (other.gameObject.CompareTag ("bounce"))
+		{
+			jumpForce = 2000f;
+		}
+	}
+	void OnCollisionExit2D (Collision2D other)
+	{
+		if (other.gameObject.CompareTag ("bounce"))
+		{
+			jumpForce = 1000f;
+		}
+	}
 	public IEnumerator Taunt()
 	{
 		// Check the random chance of taunting.
