@@ -672,7 +672,7 @@ Prefab:
       objectReference: {fileID: 700140564}
     - target: {fileID: 11417114, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: fallDelay
-      value: 5
+      value: .200000003
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_Constraints
@@ -2122,7 +2122,7 @@ Prefab:
       objectReference: {fileID: 955591519}
     - target: {fileID: 11417114, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: fallDelay
-      value: 5
+      value: .200000003
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_Constraints
