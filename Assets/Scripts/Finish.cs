@@ -10,14 +10,14 @@ public class Finish : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+		int i = Application.loadedLevel;
 		if (exit == true)
 		{
 		
 			if (Input.GetKeyDown("e"))
 		
 			{
-				Application.LoadLevel(Application.loadedLevel);
+				Application.LoadLevel(i + 1);
 			}
 		}
 	}
