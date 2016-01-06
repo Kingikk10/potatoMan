@@ -183,7 +183,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (3)
@@ -241,7 +241,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (10)
@@ -290,7 +290,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -303,7 +303,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (8)
@@ -394,7 +394,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 27
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -407,7 +407,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (6)
@@ -540,7 +540,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 15
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -553,7 +553,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (2)
@@ -611,7 +611,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (15)
@@ -706,7 +706,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -719,7 +719,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (14)
@@ -768,7 +768,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -781,7 +781,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (12)
@@ -1056,7 +1056,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 6
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -1069,7 +1069,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (11)
@@ -1118,7 +1118,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -1131,7 +1131,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (13)
@@ -1222,7 +1222,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 419030, guid: 95e32e25302096a4b95a41f1c9c7edf9, type: 2}
       propertyPath: m_RootOrder
-      value: 10
+      value: 11
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 95e32e25302096a4b95a41f1c9c7edf9, type: 2}
@@ -1310,7 +1310,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -1323,7 +1323,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (17)
@@ -1368,7 +1368,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -1381,7 +1381,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (16)
@@ -1476,7 +1476,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 22
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -1489,7 +1489,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (7)
@@ -1585,6 +1585,66 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2c9a523ea8f66064397762f231047350, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1604135755
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 1604135757}
+  - 108: {fileID: 1604135756}
+  m_Layer: 0
+  m_Name: Directional light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!108 &1604135756
+Light:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1604135755}
+  m_Enabled: 1
+  serializedVersion: 6
+  m_Type: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_Strength: 1
+    m_Bias: .0500000007
+    m_NormalBias: .400000006
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_Lightmapping: 4
+  m_BounceIntensity: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+  m_AreaSize: {x: 1, y: 1}
+--- !u!4 &1604135757
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1604135755}
+  m_LocalRotation: {x: .408217937, y: -.234569728, z: .109381676, w: .875426054}
+  m_LocalPosition: {x: 32.2700005, y: 31.4599991, z: .96875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 44
 --- !u!1001 &1654326637
 Prefab:
   m_ObjectHideFlags: 0
@@ -1714,7 +1774,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -1727,7 +1787,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (9)
@@ -2006,7 +2066,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 21
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -2019,7 +2079,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
   m_IsPrefabParent: 0
@@ -2060,7 +2120,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 28
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -2073,7 +2133,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (5)
@@ -2214,7 +2274,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 433904, guid: 3ea8f839d1f03294a8e6539b40bce53c, type: 2}
       propertyPath: m_RootOrder
-      value: 40
+      value: 41
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3ea8f839d1f03294a8e6539b40bce53c, type: 2}
@@ -2302,7 +2362,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446606, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_RootOrder
-      value: 25
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_ReceiveShadows
@@ -2315,7 +2375,7 @@ Prefab:
     - target: {fileID: 2359370, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 8604b127aa8f0a84db7121a2e0a89241, type: 2}
     - target: {fileID: 184924, guid: b1d449e61d5fd0f4ab98602fa6a949d1, type: 2}
       propertyPath: m_Name
       value: Ground (4)
