@@ -105,6 +105,10 @@ public class PlayerControl : MonoBehaviour
 
 	void OnCollisionEnter2D (Collision2D other)
 	{
+		if (other.gameObject.CompareTag ("Enemy"))
+		{
+			Application.LoadLevel(Application.loadedLevel);
+		}
 		if (other.gameObject.CompareTag ("bounce"))
 		{
 			jumpForce = 2000f;
