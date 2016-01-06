@@ -404,7 +404,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_Constraints
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_IsKinematic
@@ -799,7 +799,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 419030, guid: 95e32e25302096a4b95a41f1c9c7edf9, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 37.2999992
+      value: 40.0800018
       objectReference: {fileID: 0}
     - target: {fileID: 419030, guid: 95e32e25302096a4b95a41f1c9c7edf9, type: 2}
       propertyPath: m_LocalPosition.y
@@ -827,7 +827,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 419030, guid: 95e32e25302096a4b95a41f1c9c7edf9, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 419030, guid: 95e32e25302096a4b95a41f1c9c7edf9, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 6.36875629
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 95e32e25302096a4b95a41f1c9c7edf9, type: 2}
@@ -1305,7 +1309,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_Constraints
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_IsKinematic
@@ -1459,7 +1463,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_Constraints
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_IsKinematic
@@ -1584,7 +1588,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_Constraints
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_IsKinematic
@@ -2083,7 +2087,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_Constraints
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: cccb6fdca5fce44bc94bacf40fa493e8, type: 2}
       propertyPath: m_IsKinematic
